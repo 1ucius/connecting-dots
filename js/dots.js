@@ -22,7 +22,7 @@
 
         incSpeed:         1,
 
-        connectingRadius: 175
+        connectingRadius: 200
 
     };
 
