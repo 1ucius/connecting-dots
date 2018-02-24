@@ -10,7 +10,7 @@
 
     let options = {
 
-        dotsAmount:       100,
+        dotsAmount:       200,
 
         genLimit:         75,
 
