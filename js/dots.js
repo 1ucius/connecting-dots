@@ -10,7 +10,7 @@
 
     let options = {
 
-        dotsAmount:       200,
+        dotsAmount:       100,
 
         genLimit:         75,
 
@@ -22,7 +22,7 @@
 
         incSpeed:         1,
 
-        connectingRadius: 200
+        connectingRadius: 150
 
     };
 
